@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/random-crew/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/random-crew/static/js/main.c60ca198.chunk.js",
+    "main.js.map": "/random-crew/static/js/main.c60ca198.chunk.js.map",
+    "runtime-main.js": "/random-crew/static/js/runtime-main.1b24d1eb.js",
+    "runtime-main.js.map": "/random-crew/static/js/runtime-main.1b24d1eb.js.map",
+    "static/js/2.5d461c00.chunk.js": "/random-crew/static/js/2.5d461c00.chunk.js",
+    "static/js/2.5d461c00.chunk.js.map": "/random-crew/static/js/2.5d461c00.chunk.js.map",
+    "static/js/3.4ca6e25b.chunk.js": "/random-crew/static/js/3.4ca6e25b.chunk.js",
+    "static/js/3.4ca6e25b.chunk.js.map": "/random-crew/static/js/3.4ca6e25b.chunk.js.map",
+    "index.html": "/random-crew/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/random-crew/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5d461c00.chunk.js.LICENSE.txt": "/random-crew/static/js/2.5d461c00.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/random-crew/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b24d1eb.js",
+    "static/js/2.5d461c00.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c60ca198.chunk.js"
+  ]
+}
